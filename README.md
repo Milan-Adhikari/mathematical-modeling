@@ -11,7 +11,7 @@ A mathematical model is a simplified, assumption-based reflection of reality wri
 Modeling is the creative process of testing, refining and ultimately creating such models.
 In the words of Tony Hürlimann, "The modeling process itself is often as important as the model because its discovery path teaches us more about the problem than the resulting model."
 
-### Quick Start
+## Quick Start
 1. **Install Gurobi**
     - 'https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python' Follow the steps in the links to install gurobi.
 2. **Clone**
